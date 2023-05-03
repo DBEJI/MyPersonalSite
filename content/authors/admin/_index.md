@@ -1,5 +1,4 @@
 ---
-avatar_filename: imagencv.jpg
 # Display name
 title: David Bello Jiménez
 
