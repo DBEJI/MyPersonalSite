@@ -13,11 +13,6 @@ sections:
       username: admin
         # Override your bio text from `authors/admin/_index.md`?
       text:
-       design:
-      spacing:
-        # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ["40px", "0", "40px", "0"]
-        
   - block: markdown
     id: parallax1
     design:
@@ -37,7 +32,6 @@ sections:
           parallax: true
           # Text color (true=light, false=dark, or remove for the dynamic theme color).
           text_color_light: true
-      
   - block: collection
     id: posts
     content:
@@ -65,8 +59,7 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
-      
-  -   - block: markdown
+  - block: markdown
     id: parallax1
     design:
       background:
@@ -85,7 +78,6 @@ sections:
           parallax: true
           # Text color (true=light, false=dark, or remove for the dynamic theme color).
           text_color_light: true
-          
   - block: portfolio
     id: projects
     content:
@@ -115,8 +107,7 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-      
-    - block: markdown
+ - block: markdown
     id: parallax1
     design:
       background:
@@ -136,7 +127,7 @@ sections:
           # Text color (true=light, false=dark, or remove for the dynamic theme color).
           text_color_light: true
           
-  - block: collection
+ - block: collection
     id: featured
     content:
       title: Publications
@@ -149,7 +140,7 @@ sections:
       view: card
       view: citation
       
-    - block: markdown
+  - block: markdown
     id: parallax1
     design:
       background:
@@ -195,7 +186,7 @@ sections:
     design:
       columns: '2'
       
-      - block: markdown
+  - block: markdown
     id: parallax1
     design:
       background:
