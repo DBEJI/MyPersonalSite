@@ -13,6 +13,30 @@ sections:
       username: admin
         # Override your bio text from `authors/admin/_index.md`?
       text:
+       design:
+      spacing:
+        # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ["40px", "0", "40px", "0"]
+        
+  - block: markdown
+    id: parallax1
+    design:
+      background:
+        image:
+          # Name of image in `assets/media/`.
+          filename: Dam.jpg
+          # Apply image filters?
+          filters:
+            # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
+            brightness: 0.7
+          #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
+          size: cover
+          # Image focal point. Options include `left`, `center` (default), or `right`.
+          position: center
+          # Use a fun parallax-like fixed background effect on desktop? true/false
+          parallax: true
+          # Text color (true=light, false=dark, or remove for the dynamic theme color).
+          text_color_light: true
       
   - block: collection
     id: posts
@@ -41,6 +65,27 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
+      
+  -   - block: markdown
+    id: parallax1
+    design:
+      background:
+        image:
+          # Name of image in `assets/media/`.
+          filename: Dam.jpg
+          # Apply image filters?
+          filters:
+            # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
+            brightness: 0.7
+          #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
+          size: cover
+          # Image focal point. Options include `left`, `center` (default), or `right`.
+          position: center
+          # Use a fun parallax-like fixed background effect on desktop? true/false
+          parallax: true
+          # Text color (true=light, false=dark, or remove for the dynamic theme color).
+          text_color_light: true
+          
   - block: portfolio
     id: projects
     content:
@@ -70,6 +115,27 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
+      
+    - block: markdown
+    id: parallax1
+    design:
+      background:
+        image:
+          # Name of image in `assets/media/`.
+          filename: Dam.jpg
+          # Apply image filters?
+          filters:
+            # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
+            brightness: 0.7
+          #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
+          size: cover
+          # Image focal point. Options include `left`, `center` (default), or `right`.
+          position: center
+          # Use a fun parallax-like fixed background effect on desktop? true/false
+          parallax: true
+          # Text color (true=light, false=dark, or remove for the dynamic theme color).
+          text_color_light: true
+          
   - block: collection
     id: featured
     content:
@@ -82,6 +148,27 @@ sections:
       columns: '2'
       view: card
       view: citation
+      
+    - block: markdown
+    id: parallax1
+    design:
+      background:
+        image:
+          # Name of image in `assets/media/`.
+          filename: Dam.jpg
+          # Apply image filters?
+          filters:
+            # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
+            brightness: 0.7
+          #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
+          size: cover
+          # Image focal point. Options include `left`, `center` (default), or `right`.
+          position: center
+          # Use a fun parallax-like fixed background effect on desktop? true/false
+          parallax: true
+          # Text color (true=light, false=dark, or remove for the dynamic theme color).
+          text_color_light: true
+          
   - block: contact
     id: contact
     content:
@@ -107,4 +194,24 @@ sections:
           captcha: true
     design:
       columns: '2'
+      
+      - block: markdown
+    id: parallax1
+    design:
+      background:
+        image:
+          # Name of image in `assets/media/`.
+          filename: Dam.jpg
+          # Apply image filters?
+          filters:
+            # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
+            brightness: 0.7
+          #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
+          size: cover
+          # Image focal point. Options include `left`, `center` (default), or `right`.
+          position: center
+          # Use a fun parallax-like fixed background effect on desktop? true/false
+          parallax: true
+          # Text color (true=light, false=dark, or remove for the dynamic theme color).
+          text_color_light: true
 ---
