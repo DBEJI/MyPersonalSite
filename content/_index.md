@@ -5,6 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
+
  - block: about.avatar
     id: about
     content:
@@ -13,6 +14,7 @@ sections:
       username: admin
         # Override your bio text from `authors/admin/_index.md`?
       text:
+      
   - block: markdown
     id: parallax1
     design:
@@ -32,6 +34,7 @@ sections:
           parallax: true
           # Text color (true=light, false=dark, or remove for the dynamic theme color).
           text_color_light: true
+          
  - block: collection
     id: posts
     content:
