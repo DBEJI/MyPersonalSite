@@ -35,6 +35,7 @@ sections:
           # Text color (true=light, false=dark, or remove for the dynamic theme color).
           text_color_light: true
           
+          
  - block: collection
     id: posts
     content:
@@ -111,10 +112,10 @@ sections:
       columns: '1'
       view: showcase
       # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
+      flip_alt_rows: true
       
  - block: markdown
-    id: parallax1
+    id: parallax2
     design:
       background:
         image:
@@ -132,6 +133,9 @@ sections:
           parallax: true
           # Text color (true=light, false=dark, or remove for the dynamic theme color).
           text_color_light: true
+           spacing:
+         # Customize the section spacing. Order is top, right, bottom, left.
+         padding: ["200px", "0", "100px", "0"]
           
  - block: collection
     id: featured
@@ -193,7 +197,7 @@ sections:
       columns: '2'
       
  - block: markdown
-    id: parallax1
+    id: parallax4
     design:
       background:
         image:
