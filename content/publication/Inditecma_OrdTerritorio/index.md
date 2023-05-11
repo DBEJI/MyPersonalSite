@@ -16,7 +16,7 @@ date: '2022-10-13-01T00:00:00Z'
 #doi: ''
 
 # Schedule page publish date (NOT publication's date).
-#publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2022-10-13T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -55,7 +55,7 @@ url_pdf: 'https://github.com/DBEJI/MyPersonalSite/blob/main/content/publication/
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Google**]'
+  caption: 'Image credit: [**Google Maps**]'
   focal_point: ''
   preview_only: false
 
