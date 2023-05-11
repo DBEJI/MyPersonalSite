@@ -38,11 +38,9 @@ status:
 last_name: Bello Jiménez
 role: Biologist
 highlight_name: yes
-avatar_filename: imagencv.jpg
+avatar_filename: avatar.jpg
 first_name: David
 email: bellojimenezdavid@gmail.com
 ---
 
-David Bello Jiménez – As a biologist especialized in Geomatics, Remote Sensing, and Spatial Models for Forest Management, I offer comprehensive environmental GIS analysis, cartography, and topography services.
-Additionally, I specialize in sustainable development, clean energy, and corporate social responsibility, utilizing my consulting and auditing expertise to reduce carbon footprints and promote circular economies.
-{style="text-align: justify;"}
+**David Bello Jiménez** -- As a biologist especialized in Geomatics, Remote Sensing, and Spatial Models for Forest Management. I offer comprehensive environmental GIS analysis, cartography, and topography services. Additionally, I specialize in sustainable development, clean energy, and corporate social responsibility, utilizing my consulting and auditing expertise to reduce carbon footprints and promote circular economies.

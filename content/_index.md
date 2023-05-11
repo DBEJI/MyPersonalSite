@@ -9,7 +9,6 @@ sections:
     content:
       title: Biography
       username: admin
-      text: "My bio text goes here"
       
   - block: markdown
     id: parallax1
