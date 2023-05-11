@@ -33,7 +33,7 @@ abstract: Report on the characterization of the natural environment of the mount
 # Summary. An optional shortened abstract.
 summary: Report on the characterization of the natural environment of the mountain under study for Inditecma, S.L. Section 1 (Legal Status) and Section 2 (Natural Status) of the first chapter of the territorial planning report.
 
-tags: [Nature]
+tags: []
 
 # Display this page in the Featured widget?
 featured: true
