@@ -25,10 +25,10 @@ date: '2022-10-13-01T00:00:00Z'
 publication_types: ['4']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+# publication: In *Wowchemy Conference*
+# publication_short: In *ICW*
 
-abstract: 
+abstract: Report on the characterization of the natural environment of the mountain under study. Section 1 (Legal Status) and Section 2 (Natural Status) of the first chapter of the territorial planning report. The project included the elaboration of more than 20 maps of the area as a result of the study of the environment.
 
 # Summary. An optional shortened abstract.
 summary: Report on the characterization of the natural environment of the mountain under study for Inditecma, S.L. Section 1 (Legal Status) and Section 2 (Natural Status) of the first chapter of the territorial planning report.
@@ -43,19 +43,19 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_video: 'https://youtube.com'
+url_pdf: 'https://github.com/DBEJI/MyPersonalSite/blob/main/content/publication/Inditecma_OrdTerritorio/Rev_Oct_verMuestra.pdf'
+# url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+# url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+# url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+# url_video: 'https://youtube.com'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: [**Google**]'
   focal_point: ''
   preview_only: false
 
