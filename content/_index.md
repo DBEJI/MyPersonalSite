@@ -32,7 +32,7 @@ sections:
           text_color_light: true
           
           
- - block: collection
+  - block: collection
     id: posts
     content:
       title: Recent Posts
@@ -60,7 +60,7 @@ sections:
       view: compact
       columns: '2'
       
- - block: markdown
+  - block: markdown
     id: parallax1
     design:
       background:
@@ -80,7 +80,7 @@ sections:
           # Text color (true=light, false=dark, or remove for the dynamic theme color).
           text_color_light: true
           
- - block: portfolio
+  - block: portfolio
     id: projects
     content:
       title: Projects
@@ -110,7 +110,7 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: true
       
- - block: markdown
+  - block: markdown
     id: parallax2
     design:
       background:
@@ -129,11 +129,11 @@ sections:
           parallax: true
           # Text color (true=light, false=dark, or remove for the dynamic theme color).
           text_color_light: true
-           spacing:
-         # Customize the section spacing. Order is top, right, bottom, left.
-         padding: ["200px", "0", "100px", "0"]
+          spacing:
+          # Customize the section spacing. Order is top, right, bottom, left.
+          padding: ["200px", "0", "100px", "0"]
           
- - block: collection
+  - block: collection
     id: featured
     content:
       title: Publications
@@ -144,9 +144,8 @@ sections:
     design:
       columns: '2'
       view: card
-      view: citation
       
- - block: markdown
+  - block: markdown
     id: parallax1
     design:
       background:
@@ -166,7 +165,7 @@ sections:
           # Text color (true=light, false=dark, or remove for the dynamic theme color).
           text_color_light: true
           
- - block: contact
+  - block: contact
     id: contact
     content:
       title: Contact
@@ -192,7 +191,7 @@ sections:
     design:
       columns: '2'
       
- - block: markdown
+  - block: markdown
     id: parallax4
     design:
       background:
