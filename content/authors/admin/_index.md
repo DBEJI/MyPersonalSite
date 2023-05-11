@@ -14,15 +14,16 @@ social:
   link: https://github.com/DBEJI
 - icon: linkedin
   icon_pack: fab
-  link: "https://www.linkedin.com/in/david-bello-jimenez-26698212a/"
-- display:
-    header: no
+  link: https://www.linkedin.com/in/david-bello-jimenez-26698212a/
+- icon: r-project
   icon_pack: fab
-  icon: Rpubs
   link: https://rpubs.com/DBEJI
+
 organizations:
+  
 - name: "Hub-Terra"
   url: "https://hub-terra.com/"
+- name: 
 education:
   courses:
   - course: MSc in Geomatics, Remote Sensing and Spatial Models Applied to Forest
